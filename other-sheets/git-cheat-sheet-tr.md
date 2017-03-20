@@ -43,7 +43,7 @@ $ git diff
 
 #####Tüm güncel değişiklikleri sonraki commite ekleme:
 ```
-$ git add
+$ git add .
 ```
 
 #####Sonraki commite &lt;dosyasındaki&gt; bazı değişikleri ekleme:
@@ -428,5 +428,11 @@ git flow hotfix finish VERSION
 ###Komutlar (Commands)
 <p align="center">
 	<img alt="Git" src="../Img/git-flow-commands.png" height="270" width="460">
+</p>
+<hr>
+###Git flow şeması
+
+<p align="center">
+	<img alt="Git" src="../Img/git-flow-commands-without-flow.png">
 </p>
 <hr>
